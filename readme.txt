@@ -2,9 +2,9 @@ Hi, I am Sourabh Navaratna. I am a data enthusiast who loves to analyse the data
 
 -- Problem statement
 
-Analysing the distribution and growth trend of registered companies across different states in India over the years 2016-17 to 2021-22 and the beginning of the year 2022 till April
+Analysing the distribution and growth trend of registered companies across different states in India over the years 2016-17 to till date.
 
-1)Identify which states have the highest cumulative number of registered companies by 2021-22.
+1)Identify which states have the highest cumulative number of registered companies from 2016 - till date.
 2)Analyze the yearly growth trend of registered companies in major states.
 
 
